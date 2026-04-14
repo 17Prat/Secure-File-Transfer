@@ -1,0 +1,6 @@
+{
+  "name": "CipherVault: Secure File Transfer",
+  "description": "End-to-end encrypted file transfer system using AES-256 and RSA encryption. Files are encrypted client-side before upload.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
